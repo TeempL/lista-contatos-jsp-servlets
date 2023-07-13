@@ -4,16 +4,23 @@ Projeto de uma Lista de contatos desenvolvido utilizando JSP, Servlets.
 
 ## Funcionalidades
 
-**Cadastro de Contatos**
-**Visualização e Atualização de Contatos**
-**Exclusão de Contatos**
+1.**Cadastro de Contatos**
+
+2.**Visualização e Atualização de Contatos**
+
+3.**Exclusão de Contatos**
 
 ## Tecnologias Ultilizadas
-**Java**
-**JSP**
-**Servlets**
-**JDBC**
-**MySQL**
+
+1.**Java**
+
+2.**JSP**
+
+3.**Servlets**
+
+4.**JDBC**
+
+5.**MySQL**
 
 ## DEMO VIDEO
 
