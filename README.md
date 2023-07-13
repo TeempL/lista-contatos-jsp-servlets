@@ -1,14 +1,13 @@
 # Lista de contatos
-
-Projeto de uma Lista de contatos desenvolvido utilizando JSP, Servlets.
+Bem-vindo ao repositório do projeto Lista de contatos! Aqui você encontrará uma implementação de uma Lista de contatos utilizando JSP (JavaServer Pages) e Servlets.
 
 ## Funcionalidades
 
-1.**Cadastro de Contatos**
+1.**Cadastro de Contatos**: Permite que os usuários cadastrem novos contatos, incluindo informações como nome, telefone, e-mail e endereço.
 
-2.**Visualização e Atualização de Contatos**
+2.**Visualização e Atualização de Contatos**:Os usuários podem visualizar todos os contatos cadastrados e atualizar as informações existentes, como número de telefone ou endereço de e-mail.
 
-3.**Exclusão de Contatos**
+3.**Exclusão de Contatos**Os usuários têm a opção de excluir contatos que não são mais relevantes ou necessários.
 
 ## Tecnologias Ultilizadas
 
