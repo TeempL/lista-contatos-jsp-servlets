@@ -12,7 +12,7 @@ Projeto de uma Lista de contatos desenvolvido utilizando JSP, Servlets.
 
 ## Tecnologias Ultilizadas
 
-1.**Java**
+1.**Java: 17**
 
 2.**JSP**
 
