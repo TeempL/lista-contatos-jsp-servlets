@@ -9,7 +9,6 @@ Projeto de uma Lista de contatos desenvolvido utilizando JSP, Servlets.
 **Exclusão de Contatos**
 
 ## Tecnologias Ultilizadas
-
 **Java**
 **JSP**
 **Servlets**
